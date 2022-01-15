@@ -1,3 +1,13 @@
 Starting the course 15.1.2022
 
-Setting up the environment was relative familiar since I have used git, VSCode and npm earlier. The problme was fist that I installed everything in woring directory accidentally but once i noticed that it was pretty straightforward to get everything work.
+
+
+Setting up the environment was relative familiar since I have used git, VSCode and npm earlier. 
+I had extensions already installed and I knew how to setup git and how to use terminal to install node-sass.
+The problem was that at fist I installed everything in wrong directory accidentally but once i 
+noticed that it was pretty straightforward to get everything work. I committed and pushed everything to git.
+
+I have used css before only. So scss is new to me but using it seems quite easy. 
+
+At this point I completed part 1. And I moved to part 2.
+
