@@ -1,13 +1,24 @@
 Starting the course 15.1.2022
 
+15.1. 
 
+    Setting up the environment was relative familiar since I have used git, VSCode and npm earlier. 
+    I had extensions already installed and I knew how to setup git and how to use terminal to install node-sass.
+    The problem was that at fist I installed everything in wrong directory accidentally but once i 
+    noticed that it was pretty straightforward to get everything work. I committed and pushed everything to git.
+    I decided to use github and github desktop app since those are already familiar and I don't have to do 
+    additional settings.
 
-Setting up the environment was relative familiar since I have used git, VSCode and npm earlier. 
-I had extensions already installed and I knew how to setup git and how to use terminal to install node-sass.
-The problem was that at fist I installed everything in wrong directory accidentally but once i 
-noticed that it was pretty straightforward to get everything work. I committed and pushed everything to git.
+    I have used css before only. So scss is new to me but using it seems quite easy. 
 
-I have used css before only. So scss is new to me but using it seems quite easy. 
+    At this point I completed part 1. And I moved to part 2.
 
-At this point I completed part 1. And I moved to part 2.
+    Second part of the course teached a lot of new things. I have used litle css before but it is quite new to me. 
+    In this video I learned many things that I have struggled in my own react project. For example I have tried to create
+    home page that have backgroung image and text over it. I have managed to do that but I learned it can be done so much easier. 
+    I have never used or heard about nested elements in css or those mixin elements. They seems pretty straightforward once get used to them.
+    I can understand why scss is used.
+
+    
+    
 
