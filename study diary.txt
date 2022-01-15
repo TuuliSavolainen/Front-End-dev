@@ -19,6 +19,12 @@ Starting the course 15.1.2022
     I have never used or heard about nested elements in css or those mixin elements. They seems pretty straightforward once get used to them.
     I can understand why scss is used.
 
+    All html elements, id's and classes were familiar before so I didn'd learn anything new there. 
+
+    At this point I completed part 2, and moved on to part 3.
+
     
+
+
     
 
