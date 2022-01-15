@@ -1,0 +1,3 @@
+Starting the course 15.1.2022
+
+Setting up the environment was relative familiar since I have used git, VSCode and npm earlier. The problme was fist that I installed everything in woring directory accidentally but once i noticed that it was pretty straightforward to get everything work.
