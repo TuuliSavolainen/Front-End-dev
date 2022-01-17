@@ -23,7 +23,15 @@ Starting the course 15.1.2022
 
     At this point I completed part 2, and moved on to part 3.
 
-    
+    Menu button transformation was easier to do than i imagened. There were quite many many things to me. 
+    For example I didn't know about how to create those different states for elements using JS. I think this is 
+    very useful to know.
+
+
+17.1.
+
+    Starting video 4
+
 
 
     
